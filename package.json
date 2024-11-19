@@ -30,6 +30,6 @@
     ]
   },
   "devDependencies": {
-    "firebase": "^7.5.0"
+    "firebase": "^10.9.0"
   }
 }
